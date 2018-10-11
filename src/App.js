@@ -5,7 +5,7 @@ class App extends Component {
   constructor (props) {
     super(props)
     this.state = {
-      inputValue: '123',
+      inputValue: '124',
       list: []
     }
     this.handleChange = this.handleChange.bind(this)
